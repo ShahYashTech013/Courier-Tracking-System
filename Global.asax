@@ -1,0 +1,1 @@
+﻿<%@ Application Language="C#" Inherits="CourierTrackingSystem034.Global" %>
